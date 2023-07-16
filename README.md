@@ -1,0 +1,2 @@
+# LogisticAndRidgeNN
+For Paper
